@@ -5,14 +5,14 @@
 	"daemonversion" : "2000456",
 	"checksum" : {
 		"windowsdaemon" : "74548EF35DF7C92920650752D83A8881",
-		"macdaemon" : "3D4665136BDC132283B7691FBBD0156A",
-		"linuxdaemon" : "0FFED43AC8BB7F768F55B7A4DF42837B",
-		"linuxdaemon_18" : "0FFED43AC8BB7F768F55B7A4DF42837B"
+		"macdaemon" : "6acc520f225e46c0e0e7fa8eea62a189",
+		"linuxdaemon" : "0ffed43ac8bb7f768f55b7a4df42837b",
+		"linuxdaemon_18" : "0ffed43ac8bb7f768f55b7a4df42837b"
 	},
 	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/ZcashParams.zip",
 	"walleturl" : "https://github.com/Snowgem/ModernWallet/releases/latest",
 	"windowsdaemonurl" : "https://github.com/vidulum/vidulum/releases/download/v2.1.0/VDL-Windows.zip",
-	"macdaemonurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/VDL-Mac-2.0.2.zip",
+	"macdaemonurl" : "https://github.com/vidulum/vidulum/releases/download/v2.1.0/VDL-Mac.zip",
 	"Ubuntu-16.04" : "https://github.com/vidulum/vidulum/releases/download/v2.1.0/VDL-Linux.zip",
 	"Ubuntu-18.04" : "https://github.com/vidulum/vidulum/releases/download/v2.1.0/VDL-Linux.zip",
 	"blockchain_noindex" : "https://files.equihub.pro/vidulum/blockchain_noindex.zip",

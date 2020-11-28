@@ -1,5 +1,5 @@
 {
-  "coinname": "SnowGem",
+  "coinname": "TENT",
   "walletversion": "1.1.2",
   "detail": "Version 1.1.2:\nImplemented Errors custom messages with associated translations\nFixed bugs:\n- fixed FAQ, About and Discord links\nfixed reindex message\n- added status column for mn list table and deleted TX, TXID and MNKEY columns",
   "daemonversion": "3010051",
@@ -77,7 +77,7 @@
   "p2pport": "16113",
   "testnet_rpcport": "26112",
   "starttime": 1511111234,
-  "sticker": "XSG",
+  "sticker": "TENT",
   "masternode": true,
   "cointype": "snowgem",
   "lockedcoin": true,

@@ -4,15 +4,15 @@
 	"detail" : "What's new:\n- add auto start with system\n- add more fiat currencies\n- add transactions chart\n- fix validate address function\n- download blockchain automatically\n- fix bugs\n",
 	"daemonversion" : "1040051",
 	"checksum" : {
-		"windowsdaemon" : "D6FB1153235BF7752E99D6A6C631E429",
-		"macdaemon" : "1a2a5dbb6d3eb95c0449d36d78cc1064",
-		"linuxdaemon" : "C508424138BC5EA1452B82E8629DD1FF"
+		"windowsdaemon" : "3615AE9BD9E29CD08DFEFF9FB025620B",
+		"macdaemon" : "9562617971DC48CA08E1C6FB77938D01",
+		"linuxdaemon" : "9FB5AD93856BD91D7162840C09F9F0E9"
 	},
 	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/ZcashParams.zip",
-	"windowsdaemonurl" : "https://github.com/CommerciumBlockchain/CommerciumContinuum/releases/download/v1-mw/cmm-c-mw-v1-win64.zip",
-	"macdaemonurl" : "https://github.com/CommerciumBlockchain/CommerciumContinuum/releases/download/v1-mw/cmm-c-mw-v1-darwin.zip",
-	"Ubuntu-16.04" : "https://github.com/CommerciumBlockchain/CommerciumContinuum/releases/download/v1-mw/cmm-c-mw-v1-linux.zip",
-	"Ubuntu-18.04" : "https://github.com/CommerciumBlockchain/CommerciumContinuum/releases/download/v1-mw/cmm-c-mw-v1-linux.zip",
+	"windowsdaemonurl" : "https://github.com/CommerciumBlockchain/CommerciumContinuum/releases/download/v1-mw/cmm-c-mw-v2-win64.zip",
+	"macdaemonurl" : "https://github.com/CommerciumBlockchain/CommerciumContinuum/releases/download/v1-mw/cmm-c-mw-v2-darwin.zip",
+	"Ubuntu-16.04" : "https://github.com/CommerciumBlockchain/CommerciumContinuum/releases/download/v1-mw/cmm-c-mw-v2-linux.zip",
+	"Ubuntu-18.04" : "https://github.com/CommerciumBlockchain/CommerciumContinuum/releases/download/v1-mw/cmm-c-mw-v2-linux.zip",
 	"blockchain" : {
 		"index" : [
 		],
@@ -20,9 +20,9 @@
 		]
 	},
 	"data" : {
-		"win32" : "\\Commercium",
-		"linux" : "/.commercium",
-		"darwin" : "/Library/Application Support/Commercium"
+		"win32" : "\\Commerciummw",
+		"linux" : "/.commerciumw",
+		"darwin" : "/Library/Application Support/Commerciumw"
 	},
 	"params" : {
 		"win32" : "\\ZcashParams",
@@ -40,11 +40,11 @@
 	},
 	"verifyingKeyMD5" : "21e8b499aa84b5920ca0cea260074f34",
 	"provingKeyMD5" : "af23e521697ed69d8b8a6b9c53e48300",
-	"donation_address" : "t1NsyVyH13Q13hmMpP1XSdsE1H7Kha2LDA7",
+	"donation_address" : "",
 	"conf_file" : "commercium.conf",
 	"explorer" : "https://explorer.commercium.net/tx/",
-	"rpcport": "16112",
-	"testnet_rpcport": "26112",
+	"rpcport": "12020",
+	"testnet_rpcport": "22020",
 	"starttime": "1487500000",
 	"sticker": "CMM",
 	"masternode" : true,

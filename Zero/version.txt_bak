@@ -4,17 +4,24 @@
 	"detail" : "What's new:\n- add auto start with system\n- add more fiat currencies\n- add transactions chart\n- fix validate address function\n- download blockchain automatically\n- fix bugs\n",
 	"daemonversion" : "1040051",
 	"checksum" : {
-		"windowsdaemon" : "913813c992820b448a33f05c374aec5f",
-		"macdaemon" : "9301f89973559fd8297d4092f60ae817",
-		"linuxdaemon" : "c7de4198e3090db48b7e1fb3cb8dc1e7"
+		"windowsdaemon" : "DCC5FDA24BA9CB022EAF0C2889614CDE",
+		"macdaemon" : "518A0D33EA94C4EA2E7924393833BDF4",
+		"linuxdaemon" : "0BB9BD471B6B0012B0A881AF08565D91",
+		"linuxdaemon_18" : "0BB9BD471B6B0012B0A881AF08565D91"
 	},
-	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/params.zip",
+	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/ZcashParams.zip",
 	"walleturl" : "https://github.com/Snowgem/ModernWallet/releases/latest",
-	"windowsdaemonurl" : "https://github.com/zerocurrencycoin/Zero/releases/download/v1.0.14-2/zero_1.0.14-2-windows.zip",
-	"macdaemonurl" : "https://github.com/zerocurrencycoin/Zero/releases/download/v1.0.14-2/zero_1.0.14-2-mac.zip",
-	"Ubuntu-16.04" : "https://github.com/zerocurrencycoin/Zero/releases/download/v1.0.14-2/zero_1.0.14-2-Unbuntu-16.04.zip",
-	"Ubuntu-18.04" : "https://github.com/zerocurrencycoin/Zero/releases/download/v1.0.14-2/zero_1.0.14-2-Unbuntu-16.04.zip",
+	"windowsdaemonurl" : "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-windows.zip",
+	"macdaemonurl" : "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-MacOS-10.13.zip",
+	"Ubuntu-16.04" : "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-Ubuntu-18.04.zip",
+	"Ubuntu-18.04" : "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-Ubuntu-18.04.zip",
 	"blockchain_noindex" : "https://cdn1.snowgem.org/zer_blockchain_noindex.zip",
+	"blockchain" : {
+		"index" : [
+		],
+		"noindex" : [
+		]
+	},
 	"data" : {
 		"win32" : "\\zero",
 		"linux" : "/.zero",
@@ -25,15 +32,18 @@
 		"linux" : "/.zcash-params",
 		"darwin" : "/Library/Application Support/ZcashParams"
 	},
-	"daemon" : "zcashd",
-	"cli" : "zcash-cli",
+	"daemon" : "zerod",
+	"cli" : "zero-cli",
 	"paramfiles" : {
 		"sprout-proving.key" : "af23e521697ed69d8b8a6b9c53e48300",
-		"sprout-verifying.key" : "21e8b499aa84b5920ca0cea260074f34"
+		"sprout-verifying.key" : "21e8b499aa84b5920ca0cea260074f34",
+		"sapling-output.params": "924daf81b87a81bbbb9c7d18562046c8",
+		"sapling-spend.params": "0f44c12ef115ae019decf18ade583b20",
+		"sprout-groth16.params": "00f0cbfc8651ea4003eea5f627b0cd73"
 	},
 	"verifyingKeyMD5" : "21e8b499aa84b5920ca0cea260074f34",
 	"provingKeyMD5" : "af23e521697ed69d8b8a6b9c53e48300",
-	"donation_address" : "t1NsyVyH13Q13hmMpP1XSdsE1H7Kha2LDA7",
+	"donation_address" : "",
 	"conf_file" : "zero.conf",
 	"explorer" : "https://insight.zerocurrency.io/insight/tx/",
 	"rpcport" : "23811",

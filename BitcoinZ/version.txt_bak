@@ -4,16 +4,16 @@
 	"detail" : "What's new:\n- add auto start with system\n- add more fiat currencies\n- add transactions chart\n- fix validate address function\n- download blockchain automatically\n- fix bugs\n",
 	"daemonversion" : "1040051",
 	"checksum" : {
-		"windowsdaemon" : "3010504af405ead8eff2afbf80b2f535",
-		"macdaemon" : "1a2a5dbb6d3eb95c0449d36d78cc1064",
-		"linuxdaemon" : "0028d3f2b8a888fe6cd5a60e88401be8"
+		"windowsdaemon" : "7948dd11d8d5558794617b6f1f9d0c61",
+		"macdaemon" : "",
+		"linuxdaemon" : "2e85912d983a67bea8f6607dc5b98c94"
 	},
 	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/params.zip",
 	"walleturl" : "https://github.com/Snowgem/ModernWallet/releases/latest",
-	"windowsdaemonurl" : "https://github.com/btcz/bitcoinz-win/releases/download/v1.4.0/bitcoinz_1_4_0_x64_win.zip",
+	"windowsdaemonurl" : "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-win64.zip",
 	"macdaemonurl" : "",
-	"Ubuntu-16.04" : "https://github.com/btcz/bitcoinz/releases/download/1.4.0/bitcoinz-1_4_0_x64.zip",
-	"Ubuntu-18.04" : "https://github.com/btcz/bitcoinz/releases/download/1.4.0/bitcoinz-1_4_0_x64.zip",
+	"Ubuntu-16.04" : "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-linux64.zip",
+	"Ubuntu-18.04" : "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-linux64.zip",
 	"blockchain_noindex": "https://cdn1.snowgem.org/btcz_blockchain_noindex.zip",
 	"blockchain" : {
 		"index" : [
@@ -53,4 +53,3 @@
 	"cointype": "zcash",
 	"lockedcoin": false
 }
-

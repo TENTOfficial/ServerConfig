@@ -4,17 +4,17 @@
 	"detail" : "What's new:\n- add auto start with system\n- add more fiat currencies\n- add transactions chart\n- fix validate address function\n- download blockchain automatically\n- fix bugs\n",
 	"daemonversion" : "1040051",
 	"checksum" : {
-		"windowsdaemon" : "4943E2217B29C7B10B96AC5D9319EB72",
-		"macdaemon" : "2C982A1354CEF539F8DCA559CE581AFF",
-		"linuxdaemon" : "C79CCC358959E44A8F5F7F72C9C8EC59",
-		"linuxdaemon_18" : "C79CCC358959E44A8F5F7F72C9C8EC59"
+		"windowsdaemon" : "b2207a782cd59ab5e975f7638050754a",
+		"macdaemon" : "591b7e3a8955b9f270a628122ddd48b8",
+		"linuxdaemon" : "2cb777172825ecc05b6f68e521e614c8",
+		"linuxdaemon_18" : "2cb777172825ecc05b6f68e521e614c8"
 	},
 	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/ZcashParams.zip",
 	"walleturl" : "https://github.com/Snowgem/ModernWallet/releases/latest",
-	"windowsdaemonurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/zcash-win-3.0.0.zip",
-	"macdaemonurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/zcash-mac-3.0.0.zip",
-	"Ubuntu-16.04" : "https://github.com/Snowgem/ModernWallet/releases/download/data/zcash-ubuntu-3.0.0.zip",
-	"Ubuntu-18.04" : "https://github.com/Snowgem/ModernWallet/releases/download/data/zcash-ubuntu-3.0.0.zip",
+	"windowsdaemonurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/zcash-win-4.0.0.zip",
+	"macdaemonurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/zcash-mac-4.0.0.zip",
+	"Ubuntu-16.04" : "https://github.com/Snowgem/ModernWallet/releases/download/data/zcash-linux-4.0.0.zip",
+	"Ubuntu-18.04" : "https://github.com/Snowgem/ModernWallet/releases/download/data/zcash-linux-4.0.0.zip",
 	"blockchain_noindex": "https://cdn1.snowgem.org/zcash_blockchain_noindex.zip",
 	"blockchain" : {
 		"index" : [
