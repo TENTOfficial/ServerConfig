@@ -1,0 +1,56 @@
+{
+	"coinname" : "BitcoinZ",
+	"walletversion" : "1.0.1",
+	"detail" : "What's new:\n- add auto start with system\n- add more fiat currencies\n- add transactions chart\n- fix validate address function\n- download blockchain automatically\n- fix bugs\n",
+	"daemonversion" : "1040051",
+	"checksum" : {
+		"windowsdaemon" : "7948dd11d8d5558794617b6f1f9d0c61",
+		"macdaemon" : "",
+		"linuxdaemon" : "2e85912d983a67bea8f6607dc5b98c94"
+	},
+	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/params.zip",
+	"walleturl" : "https://github.com/Snowgem/ModernWallet/releases/latest",
+	"windowsdaemonurl" : "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-win64.zip",
+	"macdaemonurl" : "",
+	"Ubuntu-16.04" : "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-linux64.zip",
+	"Ubuntu-18.04" : "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-linux64.zip",
+	"blockchain_noindex": "https://cdn1.snowgem.org/btcz_blockchain_noindex.zip",
+	"blockchain" : {
+		"index" : [
+		],
+		"noindex" : [
+			"https://github.com/Snowgem/Data/releases/download/0.0.1/btcz_blockchain_noindex.zip.sf-part1",
+			"https://github.com/Snowgem/Data/releases/download/0.0.1/btcz_blockchain_noindex.zip.sf-part2",
+			"https://github.com/Snowgem/Data/releases/download/0.0.1/btcz_blockchain_noindex.zip.sf-part3"
+		]
+	},
+	"data" : {
+		"win32" : "\\BitcoinZ",
+		"linux" : "/.bitcoinz",
+		"darwin" : "/Library/Application Support/BitcoinZ"
+	},
+	"params" : {
+		"win32" : "\\ZcashParams",
+		"linux" : "/.zcash-params",
+		"darwin" : "/Library/Application Support/ZcashParams"
+	},
+	"daemon" : "bitcoinzd",
+	"cli" : "bitcoinz-cli",
+	"paramfiles" : {
+		"sprout-proving.key" : "af23e521697ed69d8b8a6b9c53e48300",
+		"sprout-verifying.key" : "21e8b499aa84b5920ca0cea260074f34"
+	},
+	"verifyingKeyMD5" : "21e8b499aa84b5920ca0cea260074f34",
+	"provingKeyMD5" : "af23e521697ed69d8b8a6b9c53e48300",
+	"donation_address" : "t1NsyVyH13Q13hmMpP1XSdsE1H7Kha2LDA7",
+	"conf_file" : "bitcoinz.conf",
+	"explorer" : "https://explorer.btcz.rocks/tx/",
+	"rpcport": "1979",
+	"testnet_rpcport": "2979",
+	"starttime": "1478403829",
+	"sticker": "BTCZ",
+	"masternode": false,
+	"cointype": "zcash",
+	"lockedcoin": false
+}
+

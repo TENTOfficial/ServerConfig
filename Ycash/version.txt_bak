@@ -1,0 +1,59 @@
+{
+	"coinname" : "Ycash",
+	"walletversion" : "1.0.1",
+	"detail" : "What's new:\n- add auto start with system\n- add more fiat currencies\n- add transactions chart\n- fix validate address function\n- download blockchain automatically\n- fix bugs\n",
+	"daemonversion" : "1040051",
+	"checksum" : {
+		"windowsdaemon" : "80a9f46db771fcff30e1cbf0cfdfb647",
+		"macdaemon" : "19b15cbf0501e35cc67f2dba8faa7fd7",
+		"linuxdaemon" : "1f7099e6884e45aa29960f0272020925",
+		"linuxdaemon_18" : "1f7099e6884e45aa29960f0272020925"
+	},
+	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/ZcashParams.zip",
+	"walleturl" : "https://github.com/Snowgem/ModernWallet/releases/latest",
+	"windowsdaemonurl" : "https://github.com/ycashfoundation/ycash/releases/download/2.1.1-5/Windows-binaries-ycash-v2.1.1-5.zip",
+	"macdaemonurl" : "https://github.com/ycashfoundation/ycash/releases/download/2.1.1-5/macOS-yecwallet-v2.1.1-5.zip",
+	"Ubuntu-16.04" : "https://github.com/ycashfoundation/ycash/releases/download/2.1.1-5/linux-binaries-ycash-v2.1.1-5.zip",
+	"Ubuntu-18.04" : "https://github.com/ycashfoundation/ycash/releases/download/2.1.1-5/linux-binaries-ycash-v2.1.1-5.zip",
+	"blockchain_noindex": "",
+	"blockchain" : {
+		"index" : [
+		],
+		"noindex" : [
+		]
+	},
+	"data" : {
+		"win32" : "\\Ycash",
+		"linux" : "/.ycash",
+		"darwin" : "/Library/Application Support/Ycash"
+	},
+	"params" : {
+		"win32" : "\\ZcashParams",
+		"linux" : "/.zcash-params",
+		"darwin" : "/Library/Application Support/ZcashParams"
+	},
+	"daemon" : "ycashd",
+	"cli" : "ycash-cli",
+	"paramfiles" : {
+		"sprout-proving.key" : "af23e521697ed69d8b8a6b9c53e48300",
+		"sprout-verifying.key" : "21e8b499aa84b5920ca0cea260074f34",
+		"sapling-output.params": "924daf81b87a81bbbb9c7d18562046c8",
+		"sapling-spend.params": "0f44c12ef115ae019decf18ade583b20",
+		"sprout-groth16.params": "00f0cbfc8651ea4003eea5f627b0cd73"
+	},
+	"verifyingKeyMD5" : "21e8b499aa84b5920ca0cea260074f34",
+	"provingKeyMD5" : "af23e521697ed69d8b8a6b9c53e48300",
+	"donation_address" : "t1NsyVyH13Q13hmMpP1XSdsE1H7Kha2LDA7",
+	"conf_file" : "ycash.conf",
+	"explorer" : "https://yec.safe.trade/transactions/",
+	"rpcport": "8832",
+	"testnet_rpcport": "18832",
+	"starttime": "1477641360",
+	"sticker": "YEC",
+	"masternode": false,
+	"cointype": "zcash",
+	"lockedcoin": false
+}
+
+
+

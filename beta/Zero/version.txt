@@ -1,0 +1,47 @@
+{
+	"coinname" : "Zero",
+	"walletversion" : "1.0.3",
+	"detail" : "What's new:\n- add auto start with system\n- add more fiat currencies\n- add transactions chart\n- fix validate address function\n- download blockchain automatically\n- fix bugs\n",
+	"daemonversion" : "1040051",
+	"checksum" : {
+		"windowsdaemon" : "913813c992820b448a33f05c374aec5f",
+		"macdaemon" : "9301f89973559fd8297d4092f60ae817",
+		"linuxdaemon" : "c7de4198e3090db48b7e1fb3cb8dc1e7"
+	},
+	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/params.zip",
+	"walleturl" : "https://github.com/Snowgem/ModernWallet/releases/latest",
+	"windowsdaemonurl" : "https://github.com/zerocurrencycoin/Zero/releases/download/v1.0.14-2/zero_1.0.14-2-windows.zip",
+	"macdaemonurl" : "https://github.com/zerocurrencycoin/Zero/releases/download/v1.0.14-2/zero_1.0.14-2-mac.zip",
+	"Ubuntu-16.04" : "https://github.com/zerocurrencycoin/Zero/releases/download/v1.0.14-2/zero_1.0.14-2-Unbuntu-16.04.zip",
+	"Ubuntu-18.04" : "https://github.com/zerocurrencycoin/Zero/releases/download/v1.0.14-2/zero_1.0.14-2-Unbuntu-16.04.zip",
+	"blockchain_noindex" : "https://cdn1.snowgem.org/zer_blockchain_noindex.zip",
+	"data" : {
+		"win32" : "\\zero",
+		"linux" : "/.zero",
+		"darwin" : "/Library/Application Support/zero"
+	},
+	"params" : {
+		"win32" : "\\ZcashParams",
+		"linux" : "/.zcash-params",
+		"darwin" : "/Library/Application Support/ZcashParams"
+	},
+	"daemon" : "zcashd",
+	"cli" : "zcash-cli",
+	"paramfiles" : {
+		"sprout-proving.key" : "af23e521697ed69d8b8a6b9c53e48300",
+		"sprout-verifying.key" : "21e8b499aa84b5920ca0cea260074f34"
+	},
+	"verifyingKeyMD5" : "21e8b499aa84b5920ca0cea260074f34",
+	"provingKeyMD5" : "af23e521697ed69d8b8a6b9c53e48300",
+	"donation_address" : "t1NsyVyH13Q13hmMpP1XSdsE1H7Kha2LDA7",
+	"conf_file" : "zero.conf",
+	"explorer" : "https://insight.zerocurrency.io/insight/tx/",
+	"rpcport" : "23811",
+	"testnet_rpcport" : "23812",
+	"starttime" : "1487500000",
+	"sticker" : "ZER",
+	"masternode" : false,
+	"cointype" : "zcash",
+	"lockedcoin" : false
+}
+

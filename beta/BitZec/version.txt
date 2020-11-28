@@ -1,0 +1,52 @@
+{
+	"coinname" : "BitZec",
+	"walletversion" : "1.0.4",
+	"detail" : "What's new?\n- Support Sapling\n- Add clock at bottom right\n- Backup/Restore wallet button in Settings\n- Reindex/Rescan button in Settings\n- Hide Zero addresses (Address -> Tool -> Hide/Show zero balance)\n- Support Multiple Shield (Addresses -> Select Addresses -> Tool -> Multiple shield)\n- Fix bugs",
+	"daemonversion" : "2000458",
+	"checksum" : {
+		"windowsdaemon" : "BD65DB3D5D9855607754FD8AB7B41C6D",
+		"macdaemon" : "FEFB1A05D01C9CCC6F19BB67C301FE16",
+		"linuxdaemon" : "92376E93ED19E0359DF4FF7900693C68"
+	},
+	"paramsurl" : "https://github.com/Snowgem/ModernWallet/releases/download/data/ZcashParams.zip",
+	"walleturl" : "https://github.com/Snowgem/ModernWallet/releases/latest",
+	"windowsdaemonurl" : "https://github.com/bitzec/bitzec/releases/download/1.1.2/bitzec-1.1.2win.zip",
+	"macdaemonurl" : "https://github.com/bitzec/bitzec/releases/download/1.1.2/bitzec-1.1.2a_mac.zip",
+	"Ubuntu-16.04" : "https://github.com/bitzec/bitzec/releases/download/1.1.2/bitzec-1.1.2ubu.zip",
+	"Ubuntu-18.04" : "https://github.com/bitzec/bitzec/releases/download/1.1.2/bitzec-1.1.2ubu.zip",
+	"blockchain_noindex": "https://cdn1.snowgem.org/blockchain_noindex.zip",
+	"blockchain_index": "https://cdn1.snowgem.org/blockchain_index.zip",
+	"data" : {
+		"win32" : "\\Bitzec",
+		"linux" : "/.bitzec",
+		"darwin" : "/Library/Application Support/Bitzec"
+	},
+	"params" : {
+		"win32" : "\\ZcashParams",
+		"linux" : "/.zcash-params",
+		"darwin" : "/Library/Application Support/ZcashParams"
+	},
+	"daemon" : "bitzecd",
+	"cli" : "bitzec-cli",
+	"paramfiles" : {
+		"sprout-proving.key" : "af23e521697ed69d8b8a6b9c53e48300",
+		"sprout-verifying.key" : "21e8b499aa84b5920ca0cea260074f34",
+		"sapling-output.params": "924daf81b87a81bbbb9c7d18562046c8",
+		"sapling-spend.params": "0f44c12ef115ae019decf18ade583b20",
+		"sprout-groth16.params": "00f0cbfc8651ea4003eea5f627b0cd73"
+	},
+	"verifyingKeyMD5" : "21e8b499aa84b5920ca0cea260074f34",
+	"provingKeyMD5" : "af23e521697ed69d8b8a6b9c53e48300",
+	"donation_address" : "s1T9aH2YX615Tr2v7TtgJRaWrW7BtHrKpau",
+	"conf_file" : "bitzec.conf",
+	"explorer" : "http://35.204.174.237:3001/insight/tx/",
+	"rpcport": "8732",
+	"testnet_rpcport": "18732",
+	"starttime": 1536721921,
+	"sticker": "BZC",
+	"masternode": false,
+	"cointype": "zcash",
+	"lockedcoin": false,
+	"sapling": true
+}
+
