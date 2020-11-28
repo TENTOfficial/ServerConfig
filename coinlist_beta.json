@@ -1,6 +1,10 @@
 {
   "coins": [
     {
+      "name": "TENT",
+      "icon": "https://i.imgur.com/yC7H46q.png"
+    },
+    {
       "name": "SnowGem",
       "icon": "https://i.imgur.com/c4AbEVL.png"
     },
@@ -27,14 +31,6 @@
     {
       "name": "BZEdge",
       "icon": "https://i.imgur.com/J14SnJa.png"
-    },
-    {
-      "name": "BitZec",
-      "icon": "https://i.imgur.com/0OwXp3h.png"
-    },
-    {
-      "name": "Commercium",
-      "icon": "https://i.imgur.com/q3F7QyK.png"
     },
     {
       "name": "Vidulum",
