@@ -2,14 +2,14 @@
   "coinname": "BitcoinZ",
   "walletversion": "1.1.3",
   "detail": "Version 1.1.2:\nImplemented Errors custom messages with associated translations\nFixed bugs:\n- fixed FAQ, About and Discord links\nfixed reindex message\n- added status column for mn list table and deleted TX, TXID and MNKEY columns",
-  "daemonversion": "3010051",
+  "daemonversion": "2000650",
   "checksum": {
     "windowsdaemon": "7948dd11d8d5558794617b6f1f9d0c61",
     "macdaemon": "",
     "linuxdaemon": "2e85912d983a67bea8f6607dc5b98c94"
   },
-  "paramsurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/params.zip",
-  "walleturl": "https://github.com/TENTOfficial/ModernWallet/releases/latest",
+  "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/params.zip",
+  "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
   "windowsdaemonurl": "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-win64.zip",
   "macdaemonurl": "",
   "Ubuntu-16.04": "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-linux64.zip",

@@ -1,6 +1,6 @@
 {
   "coinname": "Zcash",
-  "walletversion": "1.1.2",
+  "walletversion": "1.1.3",
   "detail": "Version 1.1.2:\nImplemented Errors custom messages with associated translations\nFixed bugs:\n- fixed FAQ, About and Discord links\nfixed reindex message\n- added status column for mn list table and deleted TX, TXID and MNKEY columns",
   "daemonversion": "1040051",
   "checksum": {
@@ -9,12 +9,12 @@
     "linuxdaemon": "2cb777172825ecc05b6f68e521e614c8",
     "linuxdaemon_18": "2cb777172825ecc05b6f68e521e614c8"
   },
-  "paramsurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/ZcashParams.zip",
-  "walleturl": "https://github.com/TENTOfficial/ModernWallet/releases/latest",
-  "windowsdaemonurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/zcash-win-4.0.0.zip",
-  "macdaemonurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/zcash-mac-4.0.0.zip",
-  "Ubuntu-16.04": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/zcash-linux-4.0.0.zip",
-  "Ubuntu-18.04": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/zcash-linux-4.0.0.zip",
+  "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
+  "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
+  "windowsdaemonurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zcash-win-4.0.0.zip",
+  "macdaemonurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zcash-mac-4.0.0.zip",
+  "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zcash-linux-4.0.0.zip",
+  "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zcash-linux-4.0.0.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/zcash_blockchain_noindex.zip",
   "blockchain": {
     "index": [],

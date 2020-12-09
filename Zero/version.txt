@@ -1,16 +1,16 @@
 {
   "coinname": "Zero",
-  "walletversion": "1.1.2",
+  "walletversion": "1.1.3",
   "detail": "Version 1.1.2:\nImplemented Errors custom messages with associated translations\nFixed bugs:\n- fixed FAQ, About and Discord links\nfixed reindex message\n- added status column for mn list table and deleted TX, TXID and MNKEY columns",
-  "daemonversion": "1040051",
+  "daemonversion": "3010159",
   "checksum": {
     "windowsdaemon": "DCC5FDA24BA9CB022EAF0C2889614CDE",
     "macdaemon": "518A0D33EA94C4EA2E7924393833BDF4",
     "linuxdaemon": "0BB9BD471B6B0012B0A881AF08565D91",
     "linuxdaemon_18": "0BB9BD471B6B0012B0A881AF08565D91"
   },
-  "paramsurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/ZcashParams.zip",
-  "walleturl": "https://github.com/TENTOfficial/ModernWallet/releases/latest",
+  "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
+  "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
   "windowsdaemonurl": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-windows.zip",
   "macdaemonurl": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-MacOS-10.13.zip",
   "Ubuntu-16.04": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-Ubuntu-18.04.zip",

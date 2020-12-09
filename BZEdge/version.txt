@@ -1,16 +1,16 @@
 {
   "coinname": "BZEdge",
-  "walletversion": "1.1.2",
+  "walletversion": "1.1.3",
   "detail": "Version 1.1.2:\nImplemented Errors custom messages with associated translations\nFixed bugs:\n- fixed FAQ, About and Discord links\nfixed reindex message\n- added status column for mn list table and deleted TX, TXID and MNKEY columns",
-  "daemonversion": "3010051",
+  "daemonversion": "3090151",
   "checksum": {
     "windowsdaemon": "148c2af0afeb429d26da2a87d7f2c895",
     "macdaemon": "7bc2d675fdd67c3749886ad561533264",
     "linuxdaemon": "3f79ff5d4c013b9e4ab3510099e709be",
     "linuxdaemon_18": "9c1552a9cd8854e87a85a5e1494ac100"
   },
-  "paramsurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/ZcashParams.zip",
-  "walleturl": "https://github.com/TENTOfficial/ModernWallet/releases/latest",
+  "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
+  "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
   "windowsdaemonurl": "https://github.com/bze-alphateam/bzedge/releases/download/v3.0.1-1/bzedge-3.0.1-1-win64.zip",
   "macdaemonurl": "https://github.com/bze-alphateam/bzedge/releases/download/v3.0.1-1/bzedge-3.0.1-1-macos.zip",
   "Ubuntu-16.04": "https://github.com/bze-alphateam/bzedge/releases/download/v3.0.1-1/bzedge-3.0.1-1-ubuntu-16.04.zip",

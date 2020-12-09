@@ -1,16 +1,16 @@
 {
   "coinname": "Ycash",
-  "walletversion": "1.1.2",
+  "walletversion": "1.1.3",
   "detail": "Version 1.1.2:\nImplemented Errors custom messages with associated translations\nFixed bugs:\n- fixed FAQ, About and Discord links\nfixed reindex message\n- added status column for mn list table and deleted TX, TXID and MNKEY columns",
-  "daemonversion": "1040051",
+  "daemonversion": "2010156",
   "checksum": {
     "windowsdaemon": "f6e2f18f00d3aaf9568f4f53e15b1c15",
     "macdaemon": "99955c756cf51e481f0a5b34667c9f3e",
     "linuxdaemon": "3cb7e8ef7272e698603ef70abfecce17",
     "linuxdaemon_18": "3cb7e8ef7272e698603ef70abfecce17"
   },
-  "paramsurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/ZcashParams.zip",
-  "walleturl": "https://github.com/TENTOfficial/ModernWallet/releases/latest",
+  "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
+  "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
   "windowsdaemonurl": "https://github.com/ycashfoundation/ycash/releases/download/v2.1.1-6/Windows-binaries-ycash-v2.1.1.6.zip",
   "macdaemonurl": "https://github.com/ycashfoundation/ycash/releases/download/v2.1.1-6/macOS-binaries-ycash-v2.1.1-6.zip",
   "Ubuntu-16.04": "https://github.com/ycashfoundation/ycash/releases/download/v2.1.1-6/Windows-binaries-ycash-v2.1.1.6.zip",

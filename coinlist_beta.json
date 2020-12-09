@@ -37,12 +37,12 @@
       "icon": "https://i.imgur.com/48IU3lM.png"
     }
   ],
-  "languageurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/languages.zip",
-  "languagechecksum": "f5e1ab42c7b58b04483c74982df14dcf",
+  "languageurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/languages.zip",
+  "languagechecksum": "db64d8e2e63684d43f8b690eddd7f34c",
   "jsmd5": "94956CF16E80E113F6248D7FFE502129",
-  "jsurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/app.js",
+  "jsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/app.js",
   "version": {
-    "walletversion": "1.1.2",
+    "walletversion": "1.1.3",
     "detail": "What's new:\n- Implemented Errors custom messages with associated translations\n- Fixed bugs\n  - fixed FAQ, About and Discord links\n  - fixed reindex message\n  - added status column for mn list table and deleted TX, TXID and MNKEY columns"
   }
 }

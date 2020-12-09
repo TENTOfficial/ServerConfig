@@ -1,19 +1,19 @@
 {
   "coinname": "Zclassic",
-  "walletversion": "1.1.2",
+  "walletversion": "1.1.3",
   "detail": "Version 1.1.2:\nImplemented Errors custom messages with associated translations\nFixed bugs:\n- fixed FAQ, About and Discord links\nfixed reindex message\n- added status column for mn list table and deleted TX, TXID and MNKEY columns",
-  "daemonversion": "2000350",
+  "daemonversion": "2000552",
   "checksum": {
     "windowsdaemon": "820AF6FC9C8E4A3A6CE56BC9F61124B7",
     "macdaemon": "A6327F5ECB4309302DEC33DF20E9B202",
     "linuxdaemon": "DFC45A6EBC2DE2FE1CE3F3FD9E354F23"
   },
-  "paramsurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/ZcashParams.zip",
-  "walleturl": "https://github.com/TENTOfficial/ModernWallet/releases/latest",
-  "windowsdaemonurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/zclassic-v2.0.4-win.zip",
-  "macdaemonurl": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/zclassic-v2.0.5-2-macOS.zip",
-  "Ubuntu-16.04": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/zclassic-v2.0.5-1-linux.zip",
-  "Ubuntu-18.04": "https://github.com/TENTOfficial/ModernWallet/releases/download/data/zclassic-v2.0.5-1-linux.zip",
+  "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
+  "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
+  "windowsdaemonurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zclassic-v2.0.4-win.zip",
+  "macdaemonurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zclassic-v2.0.5-2-macOS.zip",
+  "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zclassic-v2.0.5-1-linux.zip",
+  "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zclassic-v2.0.5-1-linux.zip",
   "blockchain_noindex": "",
   "linuxoss": [
     "Ubuntu-16.04",
