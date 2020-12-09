@@ -1,7 +1,7 @@
 {
   "coinname": "Zcash",
   "walletversion": "1.1.3",
-  "detail": "Version 1.1.2:\nImplemented Errors custom messages with associated translations\nFixed bugs:\n- fixed FAQ, About and Discord links\nfixed reindex message\n- added status column for mn list table and deleted TX, TXID and MNKEY columns",
+  "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations",
   "daemonversion": "1040051",
   "checksum": {
     "windowsdaemon": "b2207a782cd59ab5e975f7638050754a",

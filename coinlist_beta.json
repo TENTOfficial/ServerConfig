@@ -43,6 +43,6 @@
   "jsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/app.js",
   "version": {
     "walletversion": "1.1.3",
-    "detail": "What's new:\n- Implemented Errors custom messages with associated translations\n- Fixed bugs\n  - fixed FAQ, About and Discord links\n  - fixed reindex message\n  - added status column for mn list table and deleted TX, TXID and MNKEY columns"
+    "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations"
   }
 }
