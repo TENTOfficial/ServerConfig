@@ -2,19 +2,19 @@
   "coinname": "Zero",
   "walletversion": "1.1.3",
   "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations",
-  "daemonversion": "3010159",
+  "daemonversion": "3020050",
   "checksum": {
-    "windowsdaemon": "DCC5FDA24BA9CB022EAF0C2889614CDE",
-    "macdaemon": "518A0D33EA94C4EA2E7924393833BDF4",
-    "linuxdaemon": "0BB9BD471B6B0012B0A881AF08565D91",
-    "linuxdaemon_18": "0BB9BD471B6B0012B0A881AF08565D91"
+    "windowsdaemon": "cb9ec84ea3fb5526e5fa233e431bd539",
+    "macdaemon": "b160f35ff8969169196fc9f90bcf5d5b",
+    "linuxdaemon": "3ffbafde47ac0d86005b996bf2d9c534",
+    "linuxdaemon_18": "54f277177b8d115e5fb2bbd37cc428a4"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
-  "windowsdaemonurl": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-windows.zip",
-  "macdaemonurl": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-MacOS-10.13.zip",
-  "Ubuntu-16.04": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-Ubuntu-18.04.zip",
-  "Ubuntu-18.04": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.1.1/zero_3.1.1-Ubuntu-18.04.zip",
+  "windowsdaemonurl": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.2.0/zero_3.2.0-windows.zip",
+  "macdaemonurl": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.2.0/zero_3.2.0-MacOS-10.13.zip",
+  "Ubuntu-16.04": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.2.0/zero-Ubuntu-16.04.zip",
+  "Ubuntu-18.04": "https://github.com/zerocurrencycoin/Zero/releases/download/v3.2.0/zero_3.2.0-Ubuntu-18.04.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/zer_blockchain_noindex.zip",
   "blockchain": {
     "index": [],
