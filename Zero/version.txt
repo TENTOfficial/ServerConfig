@@ -50,7 +50,7 @@
   "starttime": "1487500000",
   "sticker": "ZER",
   "wallet": "wallet.zero",
-  "masternode": true,
+  "masternode": false,
   "cointype": "zcash",
   "lockedcoin": false
 }
