@@ -2,19 +2,19 @@
   "coinname": "TENT",
   "walletversion": "1.1.3",
   "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations",
-  "daemonversion": "3010051",
+  "daemonversion": "3010150",
   "checksum": {
-    "windowsdaemon": "11DBF2EA44A6E2617436069CB878B6D9",
-    "macdaemon": "b990986fa55d8e05b63406e6d3fb3927",
+    "windowsdaemon": "9ccf82ba5602147b7bb542c8f71d4cd3",
+    "macdaemon": "76c73ab891f9facbde15aac7263d6232",
     "linuxdaemon": "a676d4251b07a575088a8c9a0e96f5a9",
-    "linuxdaemon_18": "a676d4251b07a575088a8c9a0e96f5a9"
+    "linuxdaemon_18": "30131875d1305a21ee9fa5292b80db66"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
-  "windowsdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/3.1.0/snowgem-win-3.1.0-20201117.zip",
-  "macdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/3.1.0/snowgem-mac-3.1.0-20201117.zip",
+  "windowsdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/v3.1.1/snowgem-win-3.1.1.zip",
+  "macdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/v3.1.1/snowgem-mac-3.1.1.zip",
   "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT/releases/download/3.1.0/snowgem-ubuntu-3.1.0-20201117.zip",
-  "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT/releases/download/3.1.0/snowgem-ubuntu-3.1.0-20201117.zip",
+  "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT/releases/download/v3.1.1/snowgem-linux-3.1.1.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/blockchain_noindex.zip",
   "blockchain_index": "https://cdn1.snowgem.org/blockchain_index.zip",
   "blockchain": {
