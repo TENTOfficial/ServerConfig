@@ -56,6 +56,7 @@
   "conf_file": "vidulum.conf",
   "explorer": "https://explorer.vidulum.app/tx/",
   "rpcport": "17676",
+  "p2pport": "7676",
   "testnet_rpcport": "27676",
   "starttime": 1539727200,
   "sticker": "VDL",
