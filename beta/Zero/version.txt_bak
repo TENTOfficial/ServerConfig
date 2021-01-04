@@ -45,11 +45,12 @@
   "conf_file": "zero.conf",
   "explorer": "https://insight.zerocurrency.io/insight/tx/",
   "rpcport": "23811",
+  "p2pport": "23801",
   "testnet_rpcport": "23812",
   "starttime": "1487500000",
   "sticker": "ZER",
   "wallet": "wallet.zero",
-  "masternode": false,
+  "masternode": true,
   "cointype": "zcash",
   "lockedcoin": false
 }
