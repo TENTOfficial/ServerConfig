@@ -43,6 +43,7 @@
   "provingKeyMD5": "af23e521697ed69d8b8a6b9c53e48300",
   "donation_address": "",
   "conf_file": "zero.conf",
+  "mn_file" : "zeronode.conf",
   "explorer": "https://insight.zerocurrency.io/insight/tx/",
   "rpcport": "23811",
   "p2pport": "23801",
@@ -50,7 +51,7 @@
   "starttime": "1487500000",
   "sticker": "ZER",
   "wallet": "wallet.zero",
-  "masternode": false,
+  "masternode": true,
   "cointype": "zcash",
   "lockedcoin": false
 }

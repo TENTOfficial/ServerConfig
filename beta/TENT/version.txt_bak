@@ -72,6 +72,7 @@
   "provingKeyMD5": "af23e521697ed69d8b8a6b9c53e48300",
   "donation_address": "",
   "conf_file": "snowgem.conf",
+  "mn_file" : "masternode.conf",
   "explorer": "https://explorer.snowgem.org/tx/",
   "rpcport": "16112",
   "p2pport": "16113",

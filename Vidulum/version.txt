@@ -1,7 +1,5 @@
 {
   "coinname": "Vidulum",
-  "walletversion": "1.1.3",
-  "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations",
   "daemonversion": "2010050",
   "checksum": {
     "windowsdaemon": "74548EF35DF7C92920650752D83A8881",
@@ -53,6 +51,7 @@
   "nodes": [],
   "noticetimer": 60000000,
   "donation_address": "",
+  "price_field": true,
   "conf_file": "vidulum.conf",
   "mn_file" : "masternode.conf",
   "explorer": "https://explorer.vidulum.app/tx/",

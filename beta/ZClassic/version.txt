@@ -1,7 +1,5 @@
 {
   "coinname": "Zclassic",
-  "walletversion": "1.1.3",
-  "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations",
   "daemonversion": "2000552",
   "checksum": {
     "windowsdaemon": "820AF6FC9C8E4A3A6CE56BC9F61124B7",
@@ -67,6 +65,7 @@
   "verifyingKeyMD5": "21e8b499aa84b5920ca0cea260074f34",
   "provingKeyMD5": "af23e521697ed69d8b8a6b9c53e48300",
   "donation_address": "",
+  "price_field": false,
   "conf_file": "zclassic.conf",
   "explorer": "https://explorer.zcl.zelcore.io/tx/",
   "rpcport": "8023",

@@ -1,7 +1,5 @@
 {
   "coinname": "Ycash",
-  "walletversion": "1.1.3",
-  "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations",
   "daemonversion": "2010156",
   "checksum": {
     "windowsdaemon": "f6e2f18f00d3aaf9568f4f53e15b1c15",
@@ -42,6 +40,7 @@
   "verifyingKeyMD5": "21e8b499aa84b5920ca0cea260074f34",
   "provingKeyMD5": "af23e521697ed69d8b8a6b9c53e48300",
   "donation_address": "t1NsyVyH13Q13hmMpP1XSdsE1H7Kha2LDA7",
+  "price_field": false,
   "conf_file": "ycash.conf",
   "explorer": "https://yec.safe.trade/transactions/",
   "rpcport": "8832",
