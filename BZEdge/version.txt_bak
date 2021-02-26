@@ -1,7 +1,5 @@
 {
   "coinname": "BZEdge",
-  "walletversion": "1.1.3",
-  "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations",
   "daemonversion": "3090151",
   "checksum": {
     "windowsdaemon": "148c2af0afeb429d26da2a87d7f2c895",
@@ -45,6 +43,7 @@
   "verifyingKeyMD5": "21e8b499aa84b5920ca0cea260074f34",
   "provingKeyMD5": "af23e521697ed69d8b8a6b9c53e48300",
   "donation_address": "",
+  "price_field": false,
   "conf_file": "bzedge.conf",
   "explorer": "https://explorer.getbze.com/tx/",
   "rpcport": "1980",
