@@ -62,8 +62,26 @@
     "sapling-spend.params": "0f44c12ef115ae019decf18ade583b20",
     "sprout-groth16.params": "00f0cbfc8651ea4003eea5f627b0cd73"
   },
-  "popup": [],
-  "banner": [],
+  "popup": [
+              {
+            "imgUrl": "https://i.imgur.com/rVXj46E.png",
+            "redirectUrl": "https://tent.app/about-us/new/march-2021-community-update",
+            "title": "Move all TENT to transparent addresses till May 17th.",
+            "detail": "Move all TENT to transparent addresses till May 17th.",
+            "type": "popup",
+            "name": "Drop of Private Addresses support"
+        }
+  ],
+  "banner": [
+              {
+            "imgUrl": "https://i.imgur.com/rVXj46E.png",
+            "redirectUrl": "https://tent.app/about-us/new/march-2021-community-update",
+            "title": "Move all TENT to transparent addresses till May 17th.",
+            "detail": "Move all TENT to transparent addresses till May 17th.",
+            "type": "popup",
+            "name": "Drop of Private Addresses support"
+        }
+  ],
   "nodes": [],
   "noticetimer": 60000000,
   "verifyingKeyMD5": "21e8b499aa84b5920ca0cea260074f34",
