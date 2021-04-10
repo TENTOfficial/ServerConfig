@@ -64,7 +64,7 @@
   },
   "popup": [
               {
-            "imgUrl": "https://i.imgur.com/rVXj46E.png",
+            "imgUrl": "https://i.imgur.com/fwGIj42.png",
             "redirectUrl": "https://tent.app/about-us/new/march-2021-community-update",
             "title": "Move all TENT to transparent addresses till May 17th.",
             "detail": "Move all TENT to transparent addresses till May 17th.",
@@ -74,7 +74,7 @@
   ],
   "banner": [
               {
-            "imgUrl": "https://i.imgur.com/rVXj46E.png",
+            "imgUrl": "https://i.imgur.com/fwGIj42.png",
             "redirectUrl": "https://tent.app/about-us/new/march-2021-community-update",
             "title": "Move all TENT to transparent addresses till May 17th.",
             "detail": "Move all TENT to transparent addresses till May 17th.",
