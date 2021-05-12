@@ -1,20 +1,20 @@
 {
   "coinname": "TENT",
-  "daemonversion": "3010150",
+  "daemonversion": "3010250",
   "checksum": {
-    "windowsdaemon": "9ccf82ba5602147b7bb542c8f71d4cd3",
-    "macdaemon": "76c73ab891f9facbde15aac7263d6232",
-    "linuxdaemon": "a676d4251b07a575088a8c9a0e96f5a9",
-    "linuxdaemon_18": "30131875d1305a21ee9fa5292b80db66"
+    "windowsdaemon": "d1c4942fe96b7b1a8f3d7e9768d2100a",
+    "macdaemon": "b9a0b16dbaa9832772630fd1b4f7c9a7",
+    "linuxdaemon": "5a2d2961745815695321dae0bf6364d7",
+    "linuxdaemon_18": "5a2d2961745815695321dae0bf6364d7"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
-  "windowsdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/v3.1.1/snowgem-win-3.1.1.zip",
-  "macdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/v3.1.1/snowgem-mac-3.1.1.zip",
-  "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT/releases/download/3.1.0/snowgem-ubuntu-3.1.0-20201117.zip",
-  "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT/releases/download/v3.1.1/snowgem-linux-3.1.1.zip",
+  "windowsdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/Node/tent-win.zip",
+  "macdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/Node/tent-mac.zip",
+  "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT/releases/download/Node/tent-linux.zip",
+  "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT/releases/download/Node/tent-linux.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/blockchain_noindex.zip",
-  "blockchain_index": "https://cdn1.snowgem.org/blockchain_index.zip",
+  "blockchain_index": "https://files.equihub.pro/snowgem/blockchain_index.zip",
   "blockchain": {
     "index": {
       "blockchain_snowgem_index_879228.zip.sf-part1": "https://github.com/TENTOfficial/Data/releases/download/0.0.1/blockchain_snowgem_index_879228.zip.sf-part1",

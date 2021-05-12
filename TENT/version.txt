@@ -90,7 +90,7 @@
   "price_field": true,
   "conf_file": "snowgem.conf",
   "mn_file" : "masternode.conf",
-  "explorer": "https://explorer.snowgem.org/tx/",
+  "explorer": "https://explorer.tent.app/tx/",
   "rpcport": "16112",
   "p2pport": "16113",
   "testnet_rpcport": "26112",
@@ -99,5 +99,7 @@
   "masternode": true,
   "cointype": "snowgem",
   "lockedcoin": true,
-  "sapling": true
+  "sapling": true,
+	"shield" : false,
+	"showprivateaddress" : false
 }
