@@ -50,5 +50,7 @@
   "sticker": "BTCZ",
   "masternode": false,
   "cointype": "zcash",
-  "lockedcoin": false
+  "lockedcoin": false,
+	"shield" : true,
+	"showprivateaddress" : true
 }

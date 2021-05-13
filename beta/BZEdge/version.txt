@@ -54,5 +54,7 @@
   "masternode": true,
   "cointype": "snowgem",
   "lockedcoin": true,
-  "sapling": true
+  "sapling": true,
+	"shield" : true,
+	"showprivateaddress" : true
 }

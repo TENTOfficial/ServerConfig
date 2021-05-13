@@ -52,5 +52,7 @@
   "wallet": "wallet.zero",
   "masternode": true,
   "cointype": "zcash",
-  "lockedcoin": false
+  "lockedcoin": false,
+	"shield" : true,
+	"showprivateaddress" : true
 }

@@ -53,5 +53,7 @@
   "masternode": false,
   "cointype": "zcash",
   "lockedcoin": false,
-  "sapling": true
+  "sapling": true,
+	"shield" : true,
+	"showprivateaddress" : true
 }
