@@ -38,11 +38,11 @@
     }
   ],
   "languageurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/languages.zip",
-  "languagechecksum": "db64d8e2e63684d43f8b690eddd7f34c",
+  "languagechecksum": "bc58001397ca1b95fe1d12ab08bf1462",
   "jsmd5": "94956CF16E80E113F6248D7FFE502129",
   "jsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/app.js",
   "version": {
-    "walletversion": "1.1.4",
-    "detail": "Version 1.1.4:\nVersion 1.1.4:\n - Implemented price and pricechange for Zcash and Zero\n - Implemented masternode support for Zero\n - Fixed bugs:\n   - implemented translation for masternode start\n   - various fixes in translations"
+    "walletversion": "1.1.5",
+    "detail": "Version 1.1.5:\nVersion 1.1.5:\n - Removed everything privacy related\n - Implemented transferring of Transparent funds from all addresses at once into a destination address"
   }
 }
