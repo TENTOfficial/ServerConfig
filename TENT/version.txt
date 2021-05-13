@@ -101,5 +101,6 @@
   "lockedcoin": true,
   "sapling": true,
 	"shield" : false,
-	"showprivateaddress" : false
+	"showprivateaddress" : false,
+  "showencryption": false
 }
