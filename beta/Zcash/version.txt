@@ -55,5 +55,6 @@
   "cointype": "zcash",
   "lockedcoin": false,
 	"shield" : true,
-	"showprivateaddress" : true
+	"showprivateaddress" : true,
+  "showencryption": false
 }
