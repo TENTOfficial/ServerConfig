@@ -88,5 +88,5 @@
   "sapling": true,
 	"shield" : false,
 	"showprivateaddress" : false,
-  "showencryption": false
+  "showencryption": true
 }
