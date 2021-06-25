@@ -38,11 +38,11 @@
     }
   ],
   "languageurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/languages.zip",
-  "languagechecksum": "bc58001397ca1b95fe1d12ab08bf1462",
+  "languagechecksum": "238e0bf0dd1962da74859c31a34dfffa",
   "jsmd5": "94956CF16E80E113F6248D7FFE502129",
   "jsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/app.js",
   "version": {
-    "walletversion": "1.1.5",
-    "detail": "Version 1.1.5:\nVersion 1.1.5:\n - Removed everything privacy related\n - Implemented transferring of Transparent funds from all addresses at once into a destination address"
+    "walletversion": "1.1.6",
+    "detail": "Version 1.1.6:\nVersion 1.1.6:\n - Enabled wallet encryption functionality for TENT\n - Fixed max button bug on `Auto select from public addresses`\n - Added Ubuntu 20.04 option for daemon download\n - Additional fields translated"
   }
 }
