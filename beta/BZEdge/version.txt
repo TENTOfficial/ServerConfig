@@ -5,7 +5,8 @@
     "windowsdaemon": "0fe4077107db420d0203ab7efeb0456b",
     "macdaemon": "45312f8625e295b636827f16b09890f0",
     "linuxdaemon": "bbb4790e215928a9d95ee2fb1fe6d8a8",
-    "linuxdaemon_18": "bbb4790e215928a9d95ee2fb1fe6d8a8"
+    "linuxdaemon_18": "bbb4790e215928a9d95ee2fb1fe6d8a8",
+    "linuxdaemon_20": "bbb4790e215928a9d95ee2fb1fe6d8a8"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
@@ -13,6 +14,7 @@
   "macdaemonurl": "https://github.com/bze-alphateam/bzedge/releases/download/v4.3.0/bzedge-4.3.0-macos.zip",
   "Ubuntu-16.04": "https://github.com/bze-alphateam/bzedge/releases/download/v4.3.0/bzedge-4.3.0-linux.zip",
   "Ubuntu-18.04": "https://github.com/bze-alphateam/bzedge/releases/download/v4.3.0/bzedge-4.3.0-linux.zip",
+  "Ubuntu-20.04": "https://github.com/bze-alphateam/bzedge/releases/download/v4.3.0/bzedge-4.3.0-linux.zip",
   "blockchain_noindex": "",
   "blockchain_index": "https://bootstrap.getbze.com/bootstrap_txindex_latest.zip",
   "blockchain": {

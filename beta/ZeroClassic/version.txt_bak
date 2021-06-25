@@ -1,7 +1,5 @@
 {
   "coinname": "ZeroClassic",
-  "walletversion": "1.1.3",
-  "detail": "Version 1.1.3:\nRe-branded to TENT Core\nAdded support for TENT\nDropped support for SnowGem, BitZec and Commercium\nImplemented price and pricechange for Vidulum\nFixed bugs:\n - various fixes in translations",
   "daemonversion": "2010151",
   "checksum": {
     "windowsdaemon": "AE708FB9B2492265E075CFE1E4DF21DC",
@@ -45,6 +43,7 @@
   "verifyingKeyMD5": "21e8b499aa84b5920ca0cea260074f34",
   "provingKeyMD5": "af23e521697ed69d8b8a6b9c53e48300",
   "donation_address": "",
+  "price_field": false,
   "conf_file": "zero.conf",
   "explorer": "http://167.114.3.131:3001/tx/",
   "rpcport": "23901",
@@ -54,5 +53,8 @@
   "masternode": false,
   "cointype": "zcash",
   "lockedcoin": false,
-  "sapling": true
+  "sapling": true,
+	"shield" : true,
+	"showprivateaddress" : true,
+  "showencryption": false
 }

@@ -4,7 +4,9 @@
   "checksum": {
     "windowsdaemon": "820AF6FC9C8E4A3A6CE56BC9F61124B7",
     "macdaemon": "A6327F5ECB4309302DEC33DF20E9B202",
-    "linuxdaemon": "DFC45A6EBC2DE2FE1CE3F3FD9E354F23"
+    "linuxdaemon": "DFC45A6EBC2DE2FE1CE3F3FD9E354F23",
+    "linuxdaemon_18": "DFC45A6EBC2DE2FE1CE3F3FD9E354F23",
+    "linuxdaemon_20": "DFC45A6EBC2DE2FE1CE3F3FD9E354F23"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
@@ -12,6 +14,7 @@
   "macdaemonurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zclassic-v2.0.5-2-macOS.zip",
   "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zclassic-v2.0.5-1-linux.zip",
   "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zclassic-v2.0.5-1-linux.zip",
+  "Ubuntu-20.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zclassic-v2.0.5-1-linux.zip",
   "blockchain_noindex": "",
   "linuxoss": [
     "Ubuntu-16.04",

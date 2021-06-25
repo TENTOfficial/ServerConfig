@@ -2,17 +2,17 @@
   "coinname": "Vidulum",
   "daemonversion": "3000456",
   "checksum": {
-    "windowsdaemon": "da464c046e9a25665e11ba6f33e03539",
+    "windowsdaemon": "36f80bd32bd6a89eb252fe0fab25d718",
     "macdaemon": "6acc520f225e46c0e0e7fa8eea62a189",
-    "linuxdaemon": "7f31133bbbad7a49af7f500f08599aa3",
-    "linuxdaemon_18": "7f31133bbbad7a49af7f500f08599aa3"
+    "linuxdaemon": "fc8ca5155e3e51205387922301acfa67",
+    "linuxdaemon_18": "fc8ca5155e3e51205387922301acfa67"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
-  "windowsdaemonurl": "https://github.com/vidulum/vidulum/releases/download/v2.2.0/VDL-Windows.zip",
+  "windowsdaemonurl": "https://github.com/vidulum/vidulum/releases/download/2.2.1/VDL-Windows.zip",
   "macdaemonurl": "https://github.com/vidulum/vidulum/releases/download/v2.1.0/VDL-Mac.zip",
-  "Ubuntu-16.04": "https://github.com/vidulum/vidulum/releases/download/v2.2.0/VDL-Linux.zip",
-  "Ubuntu-18.04": "https://github.com/vidulum/vidulum/releases/download/v2.2.0/VDL-Linux.zip",
+  "Ubuntu-16.04": "https://github.com/vidulum/vidulum/releases/download/2.2.1/VDL-Linux.zip",
+  "Ubuntu-18.04": "https://github.com/vidulum/vidulum/releases/download/2.2.1/VDL-Linux.zip",
   "blockchain_noindex": "https://files.equihub.pro/vidulum/blockchain_noindex.zip",
   "blockchain_index": "https://files.equihub.pro/vidulum/blockchain_index.zip",
   "blockchain": {
@@ -63,5 +63,8 @@
   "masternode": true,
   "cointype": "snowgem",
   "lockedcoin": true,
-  "sapling": true
+  "sapling": true,
+	"shield" : true,
+	"showprivateaddress" : true,
+  "showencryption": false
 }

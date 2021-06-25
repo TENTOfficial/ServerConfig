@@ -5,7 +5,8 @@
     "windowsdaemon": "b2207a782cd59ab5e975f7638050754a",
     "macdaemon": "591b7e3a8955b9f270a628122ddd48b8",
     "linuxdaemon": "2cb777172825ecc05b6f68e521e614c8",
-    "linuxdaemon_18": "2cb777172825ecc05b6f68e521e614c8"
+    "linuxdaemon_18": "2cb777172825ecc05b6f68e521e614c8",
+    "linuxdaemon_20": "2cb777172825ecc05b6f68e521e614c8"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
@@ -13,6 +14,7 @@
   "macdaemonurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zcash-mac-4.0.0.zip",
   "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zcash-linux-4.0.0.zip",
   "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zcash-linux-4.0.0.zip",
+  "Ubuntu-20.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/zcash-linux-4.0.0.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/zcash_blockchain_noindex.zip",
   "blockchain": {
     "index": [],

@@ -5,7 +5,8 @@
     "windowsdaemon": "f6e2f18f00d3aaf9568f4f53e15b1c15",
     "macdaemon": "99955c756cf51e481f0a5b34667c9f3e",
     "linuxdaemon": "3cb7e8ef7272e698603ef70abfecce17",
-    "linuxdaemon_18": "3cb7e8ef7272e698603ef70abfecce17"
+    "linuxdaemon_18": "3cb7e8ef7272e698603ef70abfecce17",
+    "linuxdaemon_20": "3cb7e8ef7272e698603ef70abfecce17"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
@@ -13,6 +14,7 @@
   "macdaemonurl": "https://github.com/ycashfoundation/ycash/releases/download/v2.1.1-6/macOS-binaries-ycash-v2.1.1-6.zip",
   "Ubuntu-16.04": "https://github.com/ycashfoundation/ycash/releases/download/v2.1.1-6/Windows-binaries-ycash-v2.1.1.6.zip",
   "Ubuntu-18.04": "https://github.com/ycashfoundation/ycash/releases/download/v2.1.1-6/Windows-binaries-ycash-v2.1.1.6.zip",
+  "Ubuntu-20.04": "https://github.com/ycashfoundation/ycash/releases/download/v2.1.1-6/Windows-binaries-ycash-v2.1.1.6.zip",
   "blockchain_noindex": "",
   "blockchain": {
     "index": [],

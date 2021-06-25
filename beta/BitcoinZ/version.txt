@@ -5,7 +5,8 @@
     "windowsdaemon": "d3f36bb6bfc72bd479b18ba725dddb82",
     "macdaemon": "",
     "linuxdaemon": "eb73f27d76becf5017d5658b4c91715e",
-    "linuxdaemon_18": "eb73f27d76becf5017d5658b4c91715e"
+    "linuxdaemon_18": "eb73f27d76becf5017d5658b4c91715e",
+    "linuxdaemon_20": "eb73f27d76becf5017d5658b4c91715e"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/params.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
@@ -13,6 +14,7 @@
   "macdaemonurl": "",
   "Ubuntu-16.04": "https://github.com/btcz/bitcoinz/releases/download/2.0.7/bitcoinz-2.0.7-8e85a88df-linux64.zip",
   "Ubuntu-18.04": "https://github.com/btcz/bitcoinz/releases/download/2.0.7/bitcoinz-2.0.7-8e85a88df-linux64.zip",
+  "Ubuntu-20.04": "https://github.com/btcz/bitcoinz/releases/download/2.0.7/bitcoinz-2.0.7-8e85a88df-linux64.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/btcz_blockchain_noindex.zip",
   "blockchain": {
     "index": [],

@@ -2,16 +2,17 @@
   "coinname": "BitcoinZ",
   "daemonversion": "2000650",
   "checksum": {
-    "windowsdaemon": "7948dd11d8d5558794617b6f1f9d0c61",
+    "windowsdaemon": "d3f36bb6bfc72bd479b18ba725dddb82",
     "macdaemon": "",
-    "linuxdaemon": "2e85912d983a67bea8f6607dc5b98c94"
+    "linuxdaemon": "eb73f27d76becf5017d5658b4c91715e",
+    "linuxdaemon_18": "eb73f27d76becf5017d5658b4c91715e"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/params.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
-  "windowsdaemonurl": "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-win64.zip",
+  "windowsdaemonurl": "https://github.com/btcz/bitcoinz/releases/download/2.0.7/bitcoinz-2.0.7-8e85a88df-win64.zip",
   "macdaemonurl": "",
-  "Ubuntu-16.04": "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-linux64.zip",
-  "Ubuntu-18.04": "https://github.com/btcz/bitcoinz/releases/download/2.0.6/bitcoinz-2.0.6-2235d5781-linux64.zip",
+  "Ubuntu-16.04": "https://github.com/btcz/bitcoinz/releases/download/2.0.7/bitcoinz-2.0.7-8e85a88df-linux64.zip",
+  "Ubuntu-18.04": "https://github.com/btcz/bitcoinz/releases/download/2.0.7/bitcoinz-2.0.7-8e85a88df-linux64.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/btcz_blockchain_noindex.zip",
   "blockchain": {
     "index": [],
@@ -49,5 +50,8 @@
   "sticker": "BTCZ",
   "masternode": false,
   "cointype": "zcash",
-  "lockedcoin": false
+  "lockedcoin": false,
+	"shield" : true,
+	"showprivateaddress" : true,
+  "showencryption": false
 }

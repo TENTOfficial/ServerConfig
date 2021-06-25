@@ -1,18 +1,18 @@
 {
   "coinname": "BZEdge",
-  "daemonversion": "4010150",
+  "daemonversion": "4030050",
   "checksum": {
-    "windowsdaemon": "41e23a90f5980e59758e1dd109b10a08",
-    "macdaemon": "2d8a306dde680b68108f50044bc2c55d",
-    "linuxdaemon": "5db8129410629b372344a9d39f80e662",
-    "linuxdaemon_18": "5db8129410629b372344a9d39f80e662"
+    "windowsdaemon": "0fe4077107db420d0203ab7efeb0456b",
+    "macdaemon": "45312f8625e295b636827f16b09890f0",
+    "linuxdaemon": "bbb4790e215928a9d95ee2fb1fe6d8a8",
+    "linuxdaemon_18": "bbb4790e215928a9d95ee2fb1fe6d8a8"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
-  "windowsdaemonurl": "https://github.com/bze-alphateam/bzedge/releases/download/v4.1.1-1/bzedge-4.1.1-1-windows.zip",
-  "macdaemonurl": "https://github.com/bze-alphateam/bzedge/releases/download/v4.1.1-1/bzedge-4.1.1-1-macos.zip",
-  "Ubuntu-16.04": "https://github.com/bze-alphateam/bzedge/releases/download/v4.1.1-1/bzedge-4.1.1-1-linux.zip",
-  "Ubuntu-18.04": "https://github.com/bze-alphateam/bzedge/releases/download/v4.1.1-1/bzedge-4.1.1-1-linux.zip",
+  "windowsdaemonurl": "https://github.com/bze-alphateam/bzedge/releases/download/v4.3.0/bzedge-4.3.0-windows.zip",
+  "macdaemonurl": "https://github.com/bze-alphateam/bzedge/releases/download/v4.3.0/bzedge-4.3.0-macos.zip",
+  "Ubuntu-16.04": "https://github.com/bze-alphateam/bzedge/releases/download/v4.3.0/bzedge-4.3.0-linux.zip",
+  "Ubuntu-18.04": "https://github.com/bze-alphateam/bzedge/releases/download/v4.3.0/bzedge-4.3.0-linux.zip",
   "blockchain_noindex": "",
   "blockchain_index": "https://bootstrap.getbze.com/bootstrap_txindex_latest.zip",
   "blockchain": {
@@ -54,5 +54,8 @@
   "masternode": true,
   "cointype": "snowgem",
   "lockedcoin": true,
-  "sapling": true
+  "sapling": true,
+	"shield" : true,
+	"showprivateaddress" : true,
+  "showencryption": false
 }
