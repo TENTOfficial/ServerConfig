@@ -1,11 +1,12 @@
 {
   "coinname": "TENT",
-  "daemonversion": "3010251",
+  "daemonversion": "3010350",
   "checksum": {
-    "windowsdaemon": "703d3eda5142dab6d9aa098a8bc1a403",
-    "macdaemon": "848b8fa03342d6dae978b69e47e6f18b",
-    "linuxdaemon": "ae793970e7b741e9251a1b25c866e1c3",
-    "linuxdaemon_18": "ae793970e7b741e9251a1b25c866e1c3"
+    "windowsdaemon": "cef9d4934a57102a79a660c25eef8f33",
+    "macdaemon": "e015c3f03f5dbfd00164bc3e3c2ab126",
+    "linuxdaemon": "c7cd00e81813fb961ad6770340960ac5",
+    "linuxdaemon_18": "c7cd00e81813fb961ad6770340960ac5",
+    "linuxdaemon_20": "c7cd00e81813fb961ad6770340960ac5"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
@@ -13,6 +14,7 @@
   "macdaemonurl": "https://github.com/TENTOfficial/TENT/releases/download/Node/tent-mac.zip",
   "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT/releases/download/Node/tent-linux.zip",
   "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT/releases/download/Node/tent-linux.zip",
+  "Ubuntu-20.04": "https://github.com/TENTOfficial/TENT/releases/download/Node/tent-linux.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/blockchain_noindex.zip",
   "blockchain_index": "https://files.equihub.pro/snowgem/blockchain_index.zip",
   "blockchain": {
@@ -63,24 +65,8 @@
     "sprout-groth16.params": "00f0cbfc8651ea4003eea5f627b0cd73"
   },
   "popup": [
-              {
-            "imgUrl": "https://i.imgur.com/fwGIj42.png",
-            "redirectUrl": "https://tent.app/about-us/new/march-2021-community-update",
-            "title": "Move all TENT to transparent addresses till May 17th.",
-            "detail": "Move all TENT to transparent addresses till May 17th.",
-            "type": "popup",
-            "name": "Drop of Private Addresses support"
-        }
   ],
   "banner": [
-              {
-            "imgUrl": "https://i.imgur.com/fwGIj42.png",
-            "redirectUrl": "https://tent.app/about-us/new/march-2021-community-update",
-            "title": "Move all TENT to transparent addresses till May 17th.",
-            "detail": "Move all TENT to transparent addresses till May 17th.",
-            "type": "popup",
-            "name": "Drop of Private Addresses support"
-        }
   ],
   "nodes": [],
   "noticetimer": 60000000,
@@ -102,5 +88,5 @@
   "sapling": true,
 	"shield" : false,
 	"showprivateaddress" : false,
-  "showencryption": false
+  "showencryption": true
 }
