@@ -2,11 +2,11 @@
   "coinname": "TENT",
   "daemonversion": "3010450",
   "checksum": {
-    "windowsdaemon": "c79ae05c09cc46ce1233f26657a50a33",
-    "macdaemon": "5ab98108890a7fff55e77440fec5a70a",
-    "linuxdaemon": "c2eb05cb995df2c116a6bc0d620ea803",
-    "linuxdaemon_18": "c2eb05cb995df2c116a6bc0d620ea803",
-    "linuxdaemon_20": "c2eb05cb995df2c116a6bc0d620ea803"
+    "windowsdaemon": "055e575acf0362579b3363351c5c8661",
+    "macdaemon": "9f4303e2e59edb8c8175bee17fda033f",
+    "linuxdaemon": "7ac72cb5cb291aebca4863833f9b995d",
+    "linuxdaemon_18": "7ac72cb5cb291aebca4863833f9b995d",
+    "linuxdaemon_20": "7ac72cb5cb291aebca4863833f9b995d"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
