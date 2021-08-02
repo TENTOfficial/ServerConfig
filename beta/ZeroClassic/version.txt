@@ -1,20 +1,20 @@
 {
   "coinname": "ZeroClassic",
-  "daemonversion": "2010151",
+  "daemonversion": "4040150",
   "checksum": {
-    "windowsdaemon": "AE708FB9B2492265E075CFE1E4DF21DC",
-    "macdaemon": "AEA56C3826CF733ABF4D9FD278D9BA9D",
-    "linuxdaemon": "9D5358B0F3EF09C2AE61D61EAAF873A0",
-    "linuxdaemon_18": "9D5358B0F3EF09C2AE61D61EAAF873A0",
-    "linuxdaemon_20": "9D5358B0F3EF09C2AE61D61EAAF873A0"
+    "windowsdaemon": "d223055e9382c6b3e02224c23c8f6292",
+    "macdaemon": "cd29034470c2704a28425a6a560f9c8a",
+    "linuxdaemon": "a9aaca75a3c639e782d56efc292e97ae",
+    "linuxdaemon_18": "a9aaca75a3c639e782d56efc292e97ae",
+    "linuxdaemon_20": "a9aaca75a3c639e782d56efc292e97ae"
   },
   "paramsurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZcashParams.zip",
   "walleturl": "https://github.com/TENTOfficial/TENT-Core/releases/latest",
-  "windowsdaemonurl": "https://github.com/zeroclassic/ZeroClassic/releases/download/v2.1.1-1/ZeroClassic-2.1.1-1-win.zip",
-  "macdaemonurl": "https://github.com/zeroclassic/ZeroClassic/releases/download/v2.1.1-1/ZeroClassic-2.1.1-1-mac.zip",
-  "Ubuntu-16.04": "https://github.com/zeroclassic/ZeroClassic/releases/download/v2.1.1-1/ZeroClassic-2.1.1-1-linux.zip",
-  "Ubuntu-18.04": "https://github.com/zeroclassic/ZeroClassic/releases/download/v2.1.1-1/ZeroClassic-2.1.1-1-linux.zip",
-  "Ubuntu-20.04": "https://github.com/zeroclassic/ZeroClassic/releases/download/v2.1.1-1/ZeroClassic-2.1.1-1-linux.zip",
+  "windowsdaemonurl": "https://github.com/zeroclassic/ZeroClassic/releases/download/v4.4.1/ZeroClassic-4.4.1-windows.zip",
+  "macdaemonurl": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZeroClassic-4.4.1-macos.zip",
+  "Ubuntu-16.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZeroClassic-4.4.1-linux.zip",
+  "Ubuntu-18.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZeroClassic-4.4.1-linux.zip",
+  "Ubuntu-20.04": "https://github.com/TENTOfficial/TENT-Core/releases/download/data/ZeroClassic-4.4.1-linux.zip",
   "blockchain_noindex": "https://cdn1.snowgem.org/zeroclassic_blockchain_noindex.zip",
   "blockchain": {
     "index": {},
